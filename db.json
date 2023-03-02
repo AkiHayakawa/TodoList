@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "title": "изучить typescript",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "redux toolkit:\nredux toolkit(js)\nredux toolkit(ts)\nasunc redux toolkit",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "выучить github",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "выучить unit test",
+      "completed": false,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
